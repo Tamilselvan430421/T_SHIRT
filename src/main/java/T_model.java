@@ -1,8 +1,10 @@
+//Extend used to inherited the class
+// class is a group of objects and methods 
 public class T_model extends T_shirt {
     int Count;
     String Colour;
     char Size;
-
+//The static keyword in Java is used to share the same variable or method of a given class without object creation
     static {
         System.out.println("Welcome RTB brothers");
     }
