@@ -17,6 +17,7 @@ public class T_model extends T_shirt {
     }
 
     public static void main(String[] args) {
+        //object has an identity, a behavior and a state.
         T_model mod=new T_model(50,"Black", 'm');
 mod.scanner();
 
