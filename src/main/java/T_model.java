@@ -17,7 +17,7 @@ public class T_model extends T_shirt {
         System.out.println("T shirt color="+Colour);
         System.out.println("T shirt size="+Size);
     }
-
+// main method
     public static void main(String[] args) {
         //object has an identity, a behavior and a state.
         T_model mod=new T_model(50,"Black", 'm');
