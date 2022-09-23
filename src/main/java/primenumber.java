@@ -1,3 +1,4 @@
+//class is a group of objects and methods 
 public class primenumber
 {
     public static void main(String[] args)

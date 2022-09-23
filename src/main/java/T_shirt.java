@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
-
+//class is a group of objects and methods 
 public class T_shirt {
     int a = 0;
 //    Methods are used to perform certain actions
+// scanner method user input    
     public void scanner() {
         System.out.println("next bussiness");
         Scanner sc = new Scanner(System.in);

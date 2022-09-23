@@ -1,3 +1,4 @@
+//class is a group of objects and methods 
 public class businessLogic {
 
         public Boolean validate(final Integer primeNumber) {
