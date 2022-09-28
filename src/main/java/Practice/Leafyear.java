@@ -3,7 +3,7 @@ package Practice;
 import java.util.Scanner;
 
 //Class is a object and methodds
-public class Leapyear {
+public class Leafyear {
     public static void main(String[] args) {
 // leap year has 366 days
         System.out.println("Enter the any year");
